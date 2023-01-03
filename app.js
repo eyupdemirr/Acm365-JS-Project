@@ -4,76 +4,76 @@ const menuItems = document.querySelectorAll(".menuItem");
 const products = [
   {
     id: 1,
-    title: "Air Force",
-    price: 119,
+    title: "Lagkapten",
+    price: 2.289,
     colors: [
       {
-        code: "black",
-        img: "./img/air.png",
+        code: "white",
+        img: "./img/Desk1white.jpg",
       },
       {
-        code: "darkblue",
-        img: "./img/air2.png",
+        code: "black",
+        img: "./img/Desk1black.jpg",
       },
     ],
   },
   {
     id: 2,
-    title: "Air Jordan",
-    price: 149,
+    title: "Malm",
+    price: 2.899,
     colors: [
       {
-        code: "lightgray",
-        img: "./img/jordan.png",
+        code: "white",
+        img: "./img/Desk2White.jpg",
       },
       {
-        code: "green",
-        img: "./img/jordan2.png",
+        code: "brown",
+        img: "./img/Desk2brown.jpg",
       },
     ],
   },
   {
     id: 3,
-    title: "Blazer",
-    price: 109,
+    title: "Mickie",
+    price: 2.089,
     colors: [
       {
-        code: "lightgray",
-        img: "./img/blazer.png",
+        code: "white",
+        img: "./img/Desk3white.jpg",
       },
       {
-        code: "green",
-        img: "./img/blazer2.png",
+        code: "brown",
+        img: "./img/Desk3brown.jpg",
       },
     ],
   },
   {
     id: 4,
-    title: "Crater",
-    price: 129,
+    title: "Bekant",
+    price: 4.599,
     colors: [
       {
-        code: "black",
-        img: "./img/crater.png",
+        code: "white",
+        img: "./img/Lwhite.jpg",
       },
       {
-        code: "lightgray",
-        img: "./img/crater2.png",
+        code: "black",
+        img: "./img/Lblack.jpg",
       },
     ],
   },
   {
     id: 5,
-    title: "Hippie",
-    price: 99,
+    title: "Gamer",
+    price: 18.398,
     colors: [
       {
-        code: "gray",
-        img: "./img/hippie.png",
+        code: "black",
+        img: "./img/gamer.jpg",
       },
       {
         code: "black",
-        img: "./img/hippie2.png",
+        img: "./img/gamer.jpg",
       },
     ],
   },
